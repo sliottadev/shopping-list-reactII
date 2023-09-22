@@ -1,0 +1,12 @@
+.ListItem{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.descriptionContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

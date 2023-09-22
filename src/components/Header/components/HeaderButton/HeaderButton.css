@@ -1,0 +1,21 @@
+.HeaderButton{
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.HeaderButton:hover{
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.HeaderButton > h4{
+    margin: 0;
+}
+
+.HeaderButton > img{
+    width: 30%;
+    padding: 2px;
+}
